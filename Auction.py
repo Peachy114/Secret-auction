@@ -35,22 +35,3 @@ for user in winner:
         auction=False
 
 
-    
-
-        
-
-
-
-
-
-
-
-
-
-
-
-# lists = [1,2,3,4,5]
-# value = 0
-# for plus in lists:
-#     value += plus
-# print(value)
