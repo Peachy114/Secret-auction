@@ -1,6 +1,7 @@
 from art import *
 
-
+art = logo
+print(art)
 def finding_winner(bidding):
     #Determines the winner
     user_won = ''
@@ -16,10 +17,6 @@ def finding_winner(bidding):
 
 
 bidders = {}
-art = logo
-
-
-print(art)
 auction = True
 while auction:
     user_name = input("What is your name?: ")
